@@ -30,7 +30,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/roostamovic/number-plate-detection">
-    <img src="images/logo.webp" alt="Logo" width="160" height="80">
+    <img src="logo.webp" alt="Logo" width="160" height="80">
   </a>
 
   <h3 align="center">Number Plate Detection</h3>
@@ -242,4 +242,4 @@ Use this space to list resources you find helpful and would like to give credit 
 [license-url]: https://github.com/roostamovic/number-plate-detection/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/roostamovic
-[product-screenshot]: images/gif.gif
+[product-screenshot]: gif.gif
