@@ -191,11 +191,11 @@ Don't forget to give the project a star! Thanks again!
  -->
 
 <!-- LICENSE -->
-<!-- ## License
+## License
 
 Distributed under the MIT License. See `LICENSE.txt` for more information.
 
-<p align="right">(<a href="#top">back to top</a>)</p> -->
+<p align="right">(<a href="#top">back to top</a>)</p>
 
 
 
@@ -239,7 +239,7 @@ Use this space to list resources you find helpful and would like to give credit 
 [issues-shield]: https://img.shields.io/github/issues/roostamovic/number-plate-detection.svg?style=for-the-badge
 [issues-url]: https://github.com/roostamovic/number-plate-detection/issues
 [license-shield]: https://img.shields.io/github/license/roostamovic/number-plate-detection.svg?style=for-the-badge
-[license-url]: https://github.com/roostamovic/number-plate-detection/blob/master/LICENSE.txt
+[license-url]: https://github.com/roostamovic/number-plate-detection/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/roostamovic
 [product-screenshot]: gif.gif
