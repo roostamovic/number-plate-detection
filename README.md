@@ -30,7 +30,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/roostamovic/number-plate-detection">
-    <img src="logo.webp" alt="Logo" width="160" height="80">
+    <img src="logo.webp" alt="Logo" width="480" height="240">
   </a>
 
   <h3 align="center">Number Plate Detection</h3>
@@ -119,7 +119,7 @@ To get a local copy up and running follow these simple example steps. -->
 
 If you do not have Python installed yet, it is highly recommended that you install the [Anaconda](https://www.anaconda.com/download/) distribution of Python, which already has the above packages and more included.
 
-Otherwise, you may install [Visual Studio COde](https://code.visualstudio.com/download) to run and execute the code, but you should first have [Python](https://www.python.org/downloads/) installed on your software.
+Otherwise, you may install [Visual Studio Code](https://code.visualstudio.com/download) to run and execute the code, but you should first have [Python](https://www.python.org/downloads/) installed on your software.
 
 ### Installation
 
