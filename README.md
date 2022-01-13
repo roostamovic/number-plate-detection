@@ -135,7 +135,7 @@ _Below is an example of how you can instruct your audience on installing and set
    pip install opencv-python
    
    ```
-3. Put your video link instead of 'a.mp4'
+3. Put your video link instead of 'vid.mp4'
    ```py
    cap = cv2.VideoCapture('your_video.mp4')
    ```
